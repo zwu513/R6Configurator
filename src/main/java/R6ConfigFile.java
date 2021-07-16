@@ -92,9 +92,9 @@ public class R6ConfigFile {
             }
 
             if (currentLine.contains(oldLine)) {
-                output.append(newLine).append("\n");
+                output.append(newLine).append("\r\n");
             } else {
-                output.append(currentLine).append("\n");
+                output.append(currentLine).append("\r\n");
             }
 
             stringBuilder.delete(0, stringBuilder.indexOf("\n") + 1);
