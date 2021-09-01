@@ -1,7 +1,7 @@
 # R6Configurator
 
 A GUI-based program that allows you to manually select a server and limit your fps.
-There will be bugs, report the under issues or [here](https://forms.gle/hsuAxzucgdovZ4vs9). [Ubisoft support article](https://www.ubisoft.com/en-us/help/rainbow-six-siege/article/selecting-data-centres-manually-in-rainbow-six-siege-pc/000060594) explaining how this works.
+There will be bugs, report them under issues or [here](https://forms.gle/hsuAxzucgdovZ4vs9). [Ubisoft support article](https://www.ubisoft.com/en-us/help/rainbow-six-siege/article/selecting-data-centres-manually-in-rainbow-six-siege-pc/000060594) explaining how this works.
 
 
 ### FAQ
